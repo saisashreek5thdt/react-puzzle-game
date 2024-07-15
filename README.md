@@ -8,7 +8,6 @@ PicsPuzzle is a puzzle game where the player has to move puzzle pieces to reveal
 
 Want to play the game ?...   
 A live deployment of this game is available at   
-**https://pics-puzzle.audaxland.net**
 
 ## Build with React & TailwindCss
 
@@ -31,13 +30,13 @@ The Icons, though imported via react-icons originate from:
 
 ## Run the game locally
 
-### `git clone https://github.com/audaxland/picsPuzzleReact` 
+### `git clone https://github.com/saisashreek5thdt/react-puzzle-game.git` 
 
 Clone the repository and run npm install with the commands
 
 ```bash
-git clone https://github.com/audaxland/picsPuzzleReact
-cd picsPuzzleReact
+git clone https://github.com/saisashreek5thdt/react-puzzle-game
+cd react-puzzle-game
 npm install
 ```
 
